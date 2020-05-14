@@ -7,7 +7,7 @@ public class Simple {
 	
 	@Test
 	public void testcase() {
-		System.out.println("Welcome to Maven Jenkins");
+		System.out.println("Welcome to my Maven Jenkins");
 		
 		System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\Drivers\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
